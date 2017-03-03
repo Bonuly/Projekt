@@ -1,1 +1,3 @@
 # Projekt
+
+Založeno, protože to je v úkolu...
