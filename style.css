@@ -1,0 +1,26 @@
+* {background-color: cornsilk;
+          margin-left: 5px;
+          margin-right: 5px;
+        justify-content: space-around;}
+      h1 {color:crimson;
+          text-align:center;
+          font-family: fantasy;
+           font-size: 60px;}
+      h2 {color:brown;
+        font-family: sans-serif; 
+        text-transform: capitalize;
+         font-style: italic;
+         font-weight: 30px;
+      padding-bottom: 10px;}
+      div header p {text-decoration: underline;}
+      div footer p {text-decoration: underline;
+                    text-align: center;
+                     font-size: 60px; }
+      div li p {line-height: normal;}
+      .autor, .zdroj {border: 3px solid black; }
+      .zanr {font-size: 60px;
+             text-align: center;}
+      p {font-size: 20px;}
+      ol {float: left;} 
+      
+      
